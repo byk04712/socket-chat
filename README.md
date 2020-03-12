@@ -11,4 +11,3 @@
 ![socket实现消息实时显示](./docs/preview3.png)
 ![多人聊天](./docs/preview4.png)
 
-![加入聊天时输入自己的昵称](https://github.com/byk04712/socket-chat/blob/master/docs/preview1.png)
